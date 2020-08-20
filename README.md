@@ -3,4 +3,4 @@ A simple one page website created to help complete beginners learn HTML basics, 
 
 [Run the example live](http://mdn.github.io/beginner-html-site-styled/).
 
-# [Click here for my edited version](index.html)
+# [Click here for my edited version](file:///C:/Users/thoma/OneDrive/Desktop/beginner-html-site-styled-gh-pages/index.html)
